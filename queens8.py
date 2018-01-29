@@ -77,11 +77,6 @@ def ruller(weight):#рулетка
         return False
 
 
-def killing(array): #отбор
-    
-    
-
-
 
 
 
